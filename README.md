@@ -181,6 +181,28 @@ Read agents/report_agent/SKILLS.md
 
 ---
 
+## Session History
+
+Each agent saves session progress for continuity. Read previous sessions to see what was done:
+
+```bash
+# Red Team Agent sessions
+Read agents/redteam_agent/sessions/000_20251229_setup_session.md
+
+# Report Agent sessions
+Read agents/report_agent/sessions/000_20251229_setup_session.md
+```
+
+**Session format**: `{NNN}_{YYYYMMDD}_{target}_session.md`
+
+Sessions include:
+- Completed phases/tasks
+- Discovered information
+- Commands executed
+- Next steps
+
+---
+
 ## Sudo Commands
 
 The agent cannot run sudo commands directly. When a command requires elevated privileges:
